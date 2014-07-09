@@ -5,10 +5,10 @@ description: |
 
 inputs:
   -
-    title: Mailgun API Key
+    title: Mailgun API Key (example: key-9b17uj6f8xfzvwbp3fr2ie5klk1t1az9)
     mapped_to: MAILGUN_API_KEY
   -
-    title: Mailgun Domain
+    title: Mailgun Domain (example: sandbox419d38e292b34f27af411ebb219c1d7d.mailgun.org)
     mapped_to: MAILGUN_DOMAIN
   -
     title: Send To emails (comma separated email address list)
